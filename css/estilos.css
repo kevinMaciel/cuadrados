@@ -1,0 +1,43 @@
+#color 
+{
+    text-align: center;
+}
+
+.contenedor
+{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cuadrado
+{
+    width: 150px;
+    height: 150px;
+    background-color: brown;
+    margin: 20px 20px;
+    float:left;
+    
+}
+
+#cuadrado1
+{
+    background-color: #ff4747;
+}
+
+#cuadrado2
+{
+    background-color: #9147ff;
+}
+
+#cuadrado3
+{
+    background-color: #000;
+}
+
+#cuadrado4
+{
+    background-color: rgb(34, 85, 41);
+}
